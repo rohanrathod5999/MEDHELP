@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/home"
+        android:checkable="true"
+        android:enabled="true"/>
+
+    <item android:id="@+id/nav_labtest"
+        android:title="Lab Tests"
+        android:icon="@drawable/labtest"
+        android:checkable="true"
+        android:enabled="true"/>
+
+    <item android:id="@+id/nav_offer"
+        android:title="Offer"
+        android:icon="@drawable/offer"
+        android:checkable="true"
+        android:enabled="true"/>
+
+    <item android:id="@+id/nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/profile"
+        android:checkable="true"
+        android:enabled="true"/>
+
+
+
+
+
+</menu>

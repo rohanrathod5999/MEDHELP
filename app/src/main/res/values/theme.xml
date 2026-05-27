@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    xmlns:tools="http://schemas.android.com/tools">
+    <style name="ProductDetailActivityTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Add any custom theme attributes that you want to apply to your ProductDetailActivity -->
+    </style>
+</resources>
